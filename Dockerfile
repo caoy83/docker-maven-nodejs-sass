@@ -1,5 +1,5 @@
 # Base image
-FROM node:caoy83/maven-nodejs:latest
+FROM caoy83/maven-nodejs:latest
 MAINTAINER Cao Yang <caoy83@qq.com>
 
 # Environment configuration
